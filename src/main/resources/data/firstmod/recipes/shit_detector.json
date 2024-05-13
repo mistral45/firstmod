@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  S",
+    "IR ",
+    "## "
+  ],
+  "key": {
+    "#": {
+      "item": "firstmod:shit"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "firstmod:shit_detector",
+    "count": 1
+  }
+}

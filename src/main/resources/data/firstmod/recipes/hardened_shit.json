@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1000,
+  "experience": 300,
+  "ingredient": {
+    "item": "firstmod:shit_block"
+  },
+  "result": "firstmod:hardened_shit"
+}
